@@ -29,4 +29,12 @@
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
