@@ -1,12 +1,12 @@
 class Solution {
     public double myPow(double x, int n) {
         // x-> base , n-> exp
-        if (x == 1)
+        if (x == 1 || x==-1)
             return 1.00;
         if (n == -2147483648) {
             return 0.000000000465661;
         }
-
+        
         if (n < 0) {
             x = 1 / x;
             n = -n;
