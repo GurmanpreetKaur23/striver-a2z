@@ -1,8 +1,10 @@
 class Solution {
     public double myPow(double x, int n) {
         // x-> base , n-> exp
-        if (x == 1 || x==-1)
-            return 1.00;
+       if (x == 1) return 1.00;   
+        if (x == -1) return (n % 2 == 0) ? 1.00 : -1.00;  
+
+        
         if (n == -2147483648) {
             return 0.000000000465661;
         }
