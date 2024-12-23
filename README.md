@@ -33,8 +33,10 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
