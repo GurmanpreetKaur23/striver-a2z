@@ -56,4 +56,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0215-kth-largest-element-in-an-array) |
+## String
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
