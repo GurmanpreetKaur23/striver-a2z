@@ -64,4 +64,8 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
