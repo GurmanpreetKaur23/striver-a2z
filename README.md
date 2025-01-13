@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0131-palindrome-partitioning) |
 | [1013-fibonacci-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0216-combination-sum-iii) |
 ## Array
 |  |
