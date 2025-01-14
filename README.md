@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0216-combination-sum-iii) |
+| [0283-move-zeroes](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
@@ -73,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
