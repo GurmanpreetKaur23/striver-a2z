@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0090-subsets-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0268-missing-number) |
 ## Simulation
 |  |
