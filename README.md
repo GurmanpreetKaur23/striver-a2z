@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0283-move-zeroes) |
 ## Hash Table
