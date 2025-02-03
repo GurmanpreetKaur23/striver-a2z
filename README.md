@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0131-palindrome-partitioning) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
