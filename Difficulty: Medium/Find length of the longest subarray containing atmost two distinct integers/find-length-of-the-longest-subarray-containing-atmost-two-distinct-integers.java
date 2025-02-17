@@ -46,22 +46,23 @@ class GFG {
 class Solution {
     public static int totalElements(Integer[] arr) {
         // code here
-        int maxlen = 0 ;
-        int n = arr.length ;
-        
-        for(int i=0 ; i<n ; i++) {
-            HashSet<Integer> set = new HashSet<>() ;
+        int maxlen = 0 , left = 0 , n = arr.length ;
+        HashMap<Integer , Integer> map = new HashMap<>() ;
+        for(int right = 0 ; right<n ; right++) {
+            map.put(arr[right] , map.getOrDefault(arr[right] , 0) + 1) ;
             
-            for(int j=i ; j<n ; j++) {
-                set.add(arr[j]) ;
+            while(map.size() > 2) {
+                map.put(arr[left] , map.get(arr[left])-1) ;
                 
-                
-                if(set.size()<=2) {
-                    maxlen = Math.max(maxlen , j-i+1) ;
+                if(map.get(arr[left])==0) {
+                    map.remove(arr[left]) ;
                 }
-                else break ;
+                left++ ;
             }
+            maxlen = Math.max(maxlen , right-left+1) ;
         }
         return maxlen ;
+        
+        
     }
 }
