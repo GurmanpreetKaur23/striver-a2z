@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0242-valid-anagram) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0283-move-zeroes) |
 ## Hash Table
