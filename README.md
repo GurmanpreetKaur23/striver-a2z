@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0242-valid-anagram) |
+| [1078-remove-outermost-parentheses](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
