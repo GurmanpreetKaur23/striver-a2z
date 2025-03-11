@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1370-count-number-of-nice-subarrays) |
+| [2032-largest-odd-number-in-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0110-balanced-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
