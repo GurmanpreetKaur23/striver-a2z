@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0216-combination-sum-iii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0135-candy) |
 | [2032-largest-odd-number-in-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
