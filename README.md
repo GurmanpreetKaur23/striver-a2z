@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0257-binary-tree-paths) |
 | [0812-rotate-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0257-binary-tree-paths) |
 ## Array
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0257-binary-tree-paths) |
 ## Greedy
 |  |
 | ------- |
