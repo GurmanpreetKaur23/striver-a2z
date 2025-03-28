@@ -216,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
