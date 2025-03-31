@@ -12,14 +12,18 @@ class Solution {
     public ListNode reverseList(ListNode head) {
         ListNode prev = null ;
         ListNode curr = head ;
+        ListNode next = null ;
 
-        while(curr !=null) {
-            ListNode next = curr.next ;
+        while(curr!=null) {
+            // agla node save kro 
+            next = curr.next ;
+
+            // link putha krdo
             curr.next = prev ;
-            prev = curr ;
-            curr = next ;
-        }
 
+            prev = curr ;
+            curr = next ; 
+        }
         return prev ;
     }
 }
