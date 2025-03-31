@@ -10,20 +10,15 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ListNode prev = null ;
-        ListNode curr = head ;
-        ListNode next = null ;
-
-        while(curr!=null) {
-            // agla node save kro 
-            next = curr.next ;
-
-            // link putha krdo
-            curr.next = prev ;
-
-            prev = curr ;
-            curr = next ; 
+        if(head==null || head.next==null) {
+            return head ;
         }
-        return prev ;
+
+        ListNode newHead = reverseList(head.next) ;
+        head.next.next = head ;
+        head.next = null ;
+
+
+        return newHead ;
     }
 }
