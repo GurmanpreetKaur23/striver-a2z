@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
