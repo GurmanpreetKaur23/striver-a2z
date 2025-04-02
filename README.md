@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0234-palindrome-linked-list) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0268-missing-number) |
 ## Simulation
@@ -235,9 +237,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
