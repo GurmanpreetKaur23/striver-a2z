@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0213-house-robber-ii) |
 | [1013-fibonacci-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0283-move-zeroes) |
