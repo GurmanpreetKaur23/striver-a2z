@@ -1,6 +1,6 @@
 class Solution {
     public void sortColors(int[] nums) {
-        // dutch national flag algo 
+        
         int c0 = 0 ;
         int c1 = 0 ;
         int c2 = 0 ;
