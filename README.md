@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1046-max-consecutive-ones-iii) |
+| [1293-three-consecutive-odds](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1878-check-if-array-is-sorted-and-rotated) |
