@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0079-word-search) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sliding Window
