@@ -1,14 +1,14 @@
 class Solution {
     public int majorityElement(int[] nums) {
-       // moore's voting algo 
-       int count = 0 ;
-       int cand = 0 ;
+        // moore's voting algo
 
-       for(int num : nums) {
+        int count = 0 ;
+        int cand = 0;
+        for(int num : nums) {
             if(count==0) cand = num ;
             if(num == cand) count++ ;
-            else count--  ;
-       }
-       return cand ;
+            else count-- ;
+        }
+        return cand ;
     }
 }
