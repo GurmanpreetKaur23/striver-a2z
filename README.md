@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2032-largest-odd-number-in-string) |
+| [3321-type-of-triangle](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3321-type-of-triangle](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0268-missing-number) |
+| [3321-type-of-triangle](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
 | ------- |
