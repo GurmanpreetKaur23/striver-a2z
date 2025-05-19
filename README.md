@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0575-distribute-candies) |
 | [0792-binary-search](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0966-binary-subarrays-with-sum) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0575-distribute-candies) |
 | [0940-fruit-into-baskets](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1370-count-number-of-nice-subarrays) |
