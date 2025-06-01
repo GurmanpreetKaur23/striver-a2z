@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0216-combination-sum-iii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0200-number-of-islands) |
 ## Database
 |  |
 | ------- |
