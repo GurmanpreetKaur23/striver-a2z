@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0200-number-of-islands) |
+| [2121-find-if-path-exists-in-graph](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2121-find-if-path-exists-in-graph) |
 ## Database
 |  |
 | ------- |
@@ -380,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0948-sort-an-array) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
