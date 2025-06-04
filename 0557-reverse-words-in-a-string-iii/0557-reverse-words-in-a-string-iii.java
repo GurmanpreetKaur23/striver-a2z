@@ -10,6 +10,6 @@ class Solution {
            if(i!=words.length - 1) sb.append(" ") ;
 
         }
-        return sb.toString();
+        return sb.toString().trim();
     }
 }
