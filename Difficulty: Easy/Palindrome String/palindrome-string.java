@@ -3,6 +3,7 @@ class Solution {
         // code here
         StringBuilder sb = new StringBuilder(s) ;
         sb.reverse() ;
-        return s.equals(sb.toString()) ;
-     } 
+        if(s.equals(sb.toString())) return true ;
+        return false ;
+    }
 }
