@@ -13,9 +13,8 @@ class Solution {
         }
         
         for(boolean b : seen) {
-            if(!b) return false;
+            if(!b) return false; 
         }
         return true ;
-        
     }
 }
