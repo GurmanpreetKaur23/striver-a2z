@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0575-distribute-candies) |
 | [0792-binary-search](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0966-binary-subarrays-with-sum) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
