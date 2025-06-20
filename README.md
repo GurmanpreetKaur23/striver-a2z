@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Greedy
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0812-rotate-string) |
 ## Breadth-First Search
 |  |
@@ -438,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2121-find-if-path-exists-in-graph) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
