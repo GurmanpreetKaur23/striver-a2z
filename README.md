@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1544-count-good-nodes-in-binary-tree) |
