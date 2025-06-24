@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0054-spiral-matrix) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0135-candy) |
 | [2032-largest-odd-number-in-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
