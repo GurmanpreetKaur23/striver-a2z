@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0540-single-element-in-a-sorted-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0287-find-the-duplicate-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0908-middle-of-the-linked-list) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0907-koko-eating-bananas) |
