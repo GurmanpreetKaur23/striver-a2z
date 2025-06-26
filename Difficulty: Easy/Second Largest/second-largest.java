@@ -1,50 +1,19 @@
-//{ Driver Code Starts
-// Initial Template for Java
-import java.io.*;
-import java.util.*;
-import java.util.stream.Collectors;
-
-public class Main {
-
-    public static void main(String[] args) throws Exception {
-        Scanner sc = new Scanner(System.in);
-        int t = Integer.parseInt(sc.nextLine());
-        while (t-- > 0) {
-            String[] arr1Str = sc.nextLine().split(" ");
-            int[] arr = Arrays.stream(arr1Str).mapToInt(Integer::parseInt).toArray();
-            Solution ob = new Solution();
-            int ans = ob.getSecondLargest(arr);
-            System.out.println(ans);
-
-            System.out.println("~");
-        }
-    }
-}
-
-// } Driver Code Ends
-
-
-// User function Template for Java
-
 class Solution {
     public int getSecondLargest(int[] arr) {
-        // Code Here
-        int largest = 0 ;
-        int slargest = -1 ;
-        int n = arr.length ;
-        for(int i=0 ; i<n ; i++) {
-            if(largest<arr[i]) {
-                largest = arr[i] ;
-                
-            }
-        }
+        // code here
+        int first_max = Integer.MIN_VALUE ;
+        int second_max = Integer.MIN_VALUE;
         
-        for(int i=0 ; i<n ; i++) {
-            if(slargest<arr[i] && largest !=arr[i]) {
-                slargest = arr[i] ;
-                
+        for(int num : arr) {
+            if(num > first_max) {
+                second_max = first_max ;
+                first_max = num ;
+            }
+            
+            else if(num > second_max && num != first_max) {
+                second_max = num ;
             }
         }
-        return slargest ;
+        return (second_max == Integer.MIN_VALUE) ? -1 : second_max ;
     }
 }
