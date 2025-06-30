@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0940-fruit-into-baskets) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1370-count-number-of-nice-subarrays) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0948-sort-an-array) |
 | [3321-type-of-triangle](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/3321-type-of-triangle) |
 ## Simulation
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1046-max-consecutive-ones-iii) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0594-longest-harmonious-subsequence) |
 ## Union Find
 |  |
 | ------- |
