@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2032-largest-odd-number-in-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0940-fruit-into-baskets) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0948-sort-an-array) |
 | [3321-type-of-triangle](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/3321-type-of-triangle) |
 ## Simulation
