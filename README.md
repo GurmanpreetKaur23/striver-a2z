@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3321-type-of-triangle](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0948-sort-an-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3321-type-of-triangle](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Sliding Window
 |  |
 | ------- |
