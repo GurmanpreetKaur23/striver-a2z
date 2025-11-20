@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0940-fruit-into-baskets) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1046-max-consecutive-ones-iii) |
