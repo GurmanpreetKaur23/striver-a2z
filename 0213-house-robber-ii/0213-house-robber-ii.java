@@ -1,34 +1,28 @@
 class Solution {
-    public int helper(int[] nums) {
-        int n = nums.length; 
-        if (n == 0) return 0;
-        if (n == 1) return nums[0];
-
-        int prev = nums[0];
-        int prev2 = 0;
-
-        for (int i = 1; i < n; i++) {
-            int pick = nums[i];
-            if (i > 1) pick += prev2;
-            int notPick = prev;
-
-            int curr = Math.max(pick, notPick);
-            prev2 = prev;
-            prev = curr;
-        }
-        return prev;
+    public int rob(int[] nums) {
+        
+        int n = nums.length ;
+        if(n==0) return 0 ;
+        if(n==1) return nums[0];
+        int case1 = solve(nums , 0 , n-2) ;
+        int case2 = solve(nums , 1 , n-1) ;
+        return Math.max(case1 , case2) ;
     }
 
-    public int rob(int[] nums) {
-        int n = nums.length;
-        if (n == 1) return nums[0];
+    public int solve(int[] nums , int start , int end) {
+        int prev1 = 0 ;
+        int prev2 = 0 ;
+        if(start > end) return 0 ;
+        for(int i=start ; i<=end ; i++) {
+            int pick = nums[i] + prev2 ;
+            int notpick = prev1 ;
 
-        // Exclude last house
-        int[] nums1 = Arrays.copyOfRange(nums, 0, n - 1);
-
-        // Exclude first house
-        int[] nums2 = Arrays.copyOfRange(nums, 1, n);
-
-        return Math.max(helper(nums1), helper(nums2));
+            int curr = Math.max(pick , notpick) ;
+            prev2 = prev1 ;
+            prev1 = curr ;
+        }
+        return prev1; 
+        
     }
 }
+
