@@ -20,7 +20,6 @@ class Solution {
                 head = head.next ;
             }
         }
-
-        return res;
+        return res ;
     }
 }
