@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
