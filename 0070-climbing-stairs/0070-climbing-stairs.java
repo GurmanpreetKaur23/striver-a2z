@@ -1,6 +1,5 @@
 class Solution {
     public int climbStairs(int n) {
-        // optimized
         int prev1 = 1 , prev2 = 1 , curr = 0;
         if(n==0 || n==1) return 1 ;
 
@@ -10,6 +9,6 @@ class Solution {
             prev1 = curr ;
         } 
         return curr ;
-
+        
     }
 }
