@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0966-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0994-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1370-count-number-of-nice-subarrays) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0994-rotting-oranges) |
 | [1035-cousins-in-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2121-find-if-path-exists-in-graph) |
