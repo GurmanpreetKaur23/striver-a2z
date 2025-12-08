@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0966-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0994-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1046-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1207-unique-number-of-occurrences) |
 | [1293-three-consecutive-odds](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/0966-binary-subarrays-with-sum) |
+| [1207-unique-number-of-occurrences](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1207-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GurmanpreetKaur23/striver-a2z/tree/master/2274-keep-multiplying-found-values-by-two) |
